@@ -15,6 +15,7 @@
 		D1BDE72926EEEA7B001A01DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1BDE72726EEEA7B001A01DA /* LaunchScreen.storyboard */; };
 		D1BDE73426EEEA7C001A01DA /* Question_BotTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BDE73326EEEA7C001A01DA /* Question_BotTests.swift */; };
 		D1BDE73F26EEEA7C001A01DA /* Question_BotUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BDE73E26EEEA7C001A01DA /* Question_BotUITests.swift */; };
+		D1BDE74D26EEEAA5001A01DA /* QuestionAnswer.swift in Sources */ = {isa = PBXBuildFile; fileRef = D1BDE74C26EEEAA5001A01DA /* QuestionAnswer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D1BDE73A26EEEA7C001A01DA /* Question BotUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Question BotUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D1BDE73E26EEEA7C001A01DA /* Question_BotUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question_BotUITests.swift; sourceTree = "<group>"; };
 		D1BDE74026EEEA7C001A01DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D1BDE74C26EEEAA5001A01DA /* QuestionAnswer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionAnswer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				D1BDE71C26EEEA78001A01DA /* AppDelegate.swift */,
 				D1BDE71E26EEEA78001A01DA /* SceneDelegate.swift */,
 				D1BDE72026EEEA78001A01DA /* ViewController.swift */,
+				D1BDE74C26EEEAA5001A01DA /* QuestionAnswer.swift */,
 				D1BDE72226EEEA78001A01DA /* Main.storyboard */,
 				D1BDE72526EEEA7B001A01DA /* Assets.xcassets */,
 				D1BDE72726EEEA7B001A01DA /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				D1BDE72126EEEA78001A01DA /* ViewController.swift in Sources */,
 				D1BDE71D26EEEA78001A01DA /* AppDelegate.swift in Sources */,
 				D1BDE71F26EEEA78001A01DA /* SceneDelegate.swift in Sources */,
+				D1BDE74D26EEEAA5001A01DA /* QuestionAnswer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
